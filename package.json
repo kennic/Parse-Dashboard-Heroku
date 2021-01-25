@@ -8,4 +8,5 @@
   "dependencies": {
     "mustache": "4.1.0",
     "parse-dashboard": "2.1.0"
+  }
 }
