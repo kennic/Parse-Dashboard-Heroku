@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "description": "One click heroku dashboard deployment for heroku with HTTP(s) Basic Auth",
   "engines": {
-    "node": ">=4.3"
+    "node": ">=8.9"
   },
   "dependencies": {
-    "mustache": "2.2.1",
-    "parse-dashboard": "1.0.14"
+    "mustache": "4.1.0",
+    "parse-dashboard": "2.1.0"
   }
 }
